@@ -8,3 +8,5 @@ This is my doing of a youtube series to master javascripts by making projects.
 
 ## Simple Counter
 [Github Repo](https://github.com/consciousdeveloper/SimpleCounter)  |  [Live Website]
+
+![2 of 15](https://github.com/consciousdeveloper/SimpleCounter/blob/main/sss.png)
